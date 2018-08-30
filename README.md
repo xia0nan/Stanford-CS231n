@@ -1,4 +1,5 @@
-# CS231n-Convolutional-Neural-Networks-for-Visual-Recognition
+# CS231n: Convolutional Neural Networks for Visual Recognition
+## by Stanford University
 Study Repo for CS231n
 
 Course Website - 
